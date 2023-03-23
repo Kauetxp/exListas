@@ -9,3 +9,4 @@ lmenor = min(lista,key=len)
 
 print("Esse é o maior nome:",lmaior)
 print("Esse é o menor nome:",lmenor)
+
